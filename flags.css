@@ -1,0 +1,57 @@
+.germanhungarian{
+display: center;
+width: 500px;
+height: 50px;
+padding-top: 150px;
+padding-left: 250px;
+}
+
+.horizontalstyle{
+    width: 200px;
+    height: 60px;
+    position: center;
+    top: 50%;
+    width: 50%;
+    position:static;
+    text-align: center;
+}
+
+
+#black{
+    background-color: black;  
+}
+
+#red{
+    background-color: Red;
+}
+#yellow{
+    background-color: yellow;
+    }
+
+.frenchirish{
+    display: flex;
+    width: 500px;
+    height: 280px;
+}
+
+    .verticlestyle{
+    width: 150px;
+    height: 180px;
+    position: relative;
+    top: 50%;
+    text-align: center;
+    
+    }
+
+    #blue{
+        background-color: blue;
+        margin-left: 250px;
+
+        
+    }
+    #white{
+        background-color: white;
+    }
+    #maroon{
+        background-color: maroon;
+    }
