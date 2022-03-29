@@ -16,6 +16,7 @@ padding-left: 250px;
     position:static;
     text-align: center;
 }
+
 #black{
     background-color: black;  
 }
@@ -31,15 +32,11 @@ padding-left: 250px;
 #red{
     background-color: Red;
 }
-#red:hover{
-    background-color: white;
-}
+
 #yellow{
     background-color: yellow;
     }
-#yellow:hover{
-    background-color: green;
-}
+
 .frenchirish{
     display: flex;
     width: 500px;
