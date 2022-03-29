@@ -6,6 +6,7 @@ padding-top: 150px;
 padding-left: 250px;
 }
 
+
 .horizontalstyle{
     width: 200px;
     height: 60px;
@@ -15,19 +16,30 @@ padding-left: 250px;
     position:static;
     text-align: center;
 }
-
-
 #black{
     background-color: black;  
 }
-
+#black:hover ~ #yellow{
+    background-color: red;
+}
+#black:hover ~ #red{
+    background-color: white;
+}
+#black:hover{
+    background-color: green;
+}
 #red{
     background-color: Red;
+}
+#red:hover{
+    background-color: white;
 }
 #yellow{
     background-color: yellow;
     }
-
+#yellow:hover{
+    background-color: green;
+}
 .frenchirish{
     display: flex;
     width: 500px;
